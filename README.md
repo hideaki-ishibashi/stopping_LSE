@@ -78,6 +78,7 @@ Our code uses Python3.10.2 and the following packages:
       - `acq_func_name`
         - Name of acuisition function
         - You can choice of `MELK`, `MILE`, `RMILE`, `Straddle`, `US`, `Ours`.
+        - MELK was implemented based on the authors' code: https://proceedings.mlr.press/v151/mason22a 
       - `kernel`
         - Kernel function of GP which is defined as `GPy.kern`.
       - `rule_name`
