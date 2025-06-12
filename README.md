@@ -1,5 +1,21 @@
 # Code for An $(\epsilon,\delta)$-accurate level set estimation with a stopping criterion.
 
+This is the code for our paper [An $(\epsilon,\delta)$-accurate level set estimation with a stopping criterion](https://arxiv.org/abs/2104.01836).
+
+Please cite us:
+
+```
+@misc{ishibashi2025epsilondeltaaccuratelevelsetestimation,
+      title={An $(\epsilon,\delta)$-accurate level set estimation with a stopping criterion}, 
+      author={Hideaki Ishibashi and Kota Matsui and Kentaro Kutsukake and Hideitsu Hino},
+      year={2025},
+      eprint={2503.20272},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2503.20272}, 
+}
+```
+
 ## Installation
 Our code uses Python3.10.2 and the following packages:
 - gpy             1.13.2  The Gaussian Process Toolbox
@@ -88,3 +104,6 @@ Our code uses Python3.10.2 and the following packages:
 - `stopping_criteria.py`
     - When definning the stopping criterion, threshold and budget are required.
     - check_threshold function calculates a value of each stopping criterion and determines if the threshold has fallen below a threshold.
+
+## License
+The source code is licensed BSD 3-clause License, see LICENSE.
