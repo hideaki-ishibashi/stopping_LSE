@@ -107,4 +107,4 @@ Our code uses Python3.10.2 and the following packages:
     - check_threshold function calculates a value of each stopping criterion and determines if the threshold has fallen below a threshold.
 
 ## License
-The source code is licensed BSD 3-clause License, see LICENSE.
+The source code is licensed BSD-3-clause License, see LICENSE.
