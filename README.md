@@ -1,6 +1,6 @@
 # Code for An $(\epsilon,\delta)$-accurate level set estimation with a stopping criterion.
 
-This is the code for our paper [An $(\epsilon,\delta)$-accurate level set estimation with a stopping criterion](https://arxiv.org/abs/2104.01836).
+This is the code for our paper [An $(\epsilon,\delta)$-accurate level set estimation with a stopping criterion](https://arxiv.org/abs/2503.20272).
 
 Please cite us:
 
